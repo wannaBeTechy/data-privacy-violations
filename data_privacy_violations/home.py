@@ -9,10 +9,10 @@ from PIL import Image, ImageTk
 import io
 import send_tweet
 import check_privacy
-access_token = "2158465844-TYtigqXGBQa5KzshKjz5MFO9SqTVkc03FQLL37N"
-access_token_secret = "ClgQD5kCml8yb70ZlseUQIXOAM6bltOwoPuD5Z3SWguXW"
-consumer_key = "IaIdBOJa7ZwNI6xHS11Jg5DVb"
-consumer_secret = "IuZ4G5wrK2aYU1yuOwbPqu6G0Rx1hBgHwo6xEOHANhA4gTzJv9"
+access_token = "2158465844-///"
+access_token_secret = "////"
+consumer_key = "///"
+consumer_secret = "///"
 # Very basic window.  Return values as a list      
 def base64_to_style_image(base64_image):
     return "url('data:image/png;base64,"+base64_image+"')"
